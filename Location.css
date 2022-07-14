@@ -1,0 +1,12 @@
+.North{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: aqua;
+}
+.South{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: rgb(221, 0, 255);
+}
